@@ -5,7 +5,8 @@
 # Awesome glTF
 A curated list of awesome Graphics Library Transmission Format (glTF) resources and projects. These are hand-picked resources and projects that I find awesome.
 
-Curated by [@askender43](https://twitter.com/askender43)
+Curated by [@askender43](https://twitter.com/askender43) and ...
+Pull Request is welcome!
 
 ## Contents
 - [What is glTF?](#what-is-glTF)
