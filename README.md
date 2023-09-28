@@ -40,6 +40,5 @@ Pull Requests are welcome!
 - [glTF (GL Transmission Format) - Sketchfab](https://sketchfab.com/features/gltf)
 - [glTF™ 2.0 Specification](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
 - [UnityGLTF: Runtime GLTF Loader for Unity3D](https://github.com/KhronosGroup/UnityGLTF)
-- [UnityGLTF: Runtime GLTF Loader for Unity3D](https://github.com/KhronosGroup/UnityGLTF)
 
 ## Integrations
