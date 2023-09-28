@@ -27,12 +27,17 @@ Pull Request is welcome!
 ## Libraries & Tools
 * [glTF Github Repository](https://github.com/KhronosGroup/glTF) - The main repository for the glTF project.
 - [glTF-Validator](https://github.com/KhronosGroup/glTF-Validator)
+- [glTF Viewer](https://gltf-viewer.donmccurdy.com/)
+- [glTF Report](https://gltf.report/)
 
 ## Learning
+- [](https://github.com/KhronosGroup/glTF-Tutorials)
 
 ## References
 * [Everything You Need to Know About glTF Files](https://www.marxentlabs.com/gltf-files/)
 * [Why we should all support glTF 2.0 as THE standard asset exchange format for game engines](https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines/)
 * [glTF: Everything You Need to Know](https://www.threekit.com/blog/gltf-everything-you-need-to-know)
+- [glTF (GL Transmission Format) - Sketchfab](https://sketchfab.com/features/gltf)
+- [glTF™ 2.0 Specification](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
 
 ## Integrations
