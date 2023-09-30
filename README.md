@@ -42,4 +42,6 @@ Pull Requests are welcome!
 - [glTF™ 2.0 Specification](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
 - [UnityGLTF: Runtime GLTF Loader for Unity3D](https://github.com/KhronosGroup/UnityGLTF)
 
-## Integrations
+## Related Projects
+- [Awesome Blender](https://github.com/agmmnn/awesome-blender)
+- [Awesome Godot](https://github.com/godotengine/awesome-godot)
