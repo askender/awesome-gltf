@@ -30,6 +30,8 @@ Pull Requests are welcome!
 - [glTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [glTF Report](https://gltf.report/)
 - [official Khronos glTF 2.0 Sample Viewer](https://github.com/KhronosGroup/glTF-Sample-Viewer)
+- [Super GLB Viewer](https://jessyleite.dev/super-glb-viewer/) - View, inspect, edit, compare and optimize GLB/glTF 3D models - multi-engine (Three.js, Babylon.js, PlayCanvas, Unity).
+- [Super GLB Viewer for VS Code](https://marketplace.visualstudio.com/items?itemName=JessyLeite.super-glb-viewer)
 
 ## Learning
 - [](https://github.com/KhronosGroup/glTF-Tutorials)
