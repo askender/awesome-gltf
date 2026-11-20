@@ -39,6 +39,9 @@ Pull Requests are welcome!
 - [Super GLB Viewer for VS Code](https://marketplace.visualstudio.com/items?itemName=JessyLeite.super-glb-viewer)
 - [iMeshh glTF Viewer](https://imeshh.com/tools/gltf-viewer) - Free, in-browser glTF/GLB viewer with a path-traced photoreal preview mode.
 - [3D House Planner Material Editor](https://www.3dhouseplanner.com/index2.php) - Free, in-browser glTF/GLB viewer and material editor: inspect models, edit PBR materials and textures, and export GLB. No login required.
+- [CharpstAR GLB Validator](https://charpstar.co/tools/glb-validator) - Free, in-browser check of a GLB against the 3D model rules of Amazon, Shopify, Google and iPhone AR, with fixes that output a new GLB and USDZ. Nothing is uploaded.
+- [CharpstAR GLB Compressor](https://charpstar.co/tools/compress-glb) - Free, in-browser GLB/glTF compression with Draco or Meshopt geometry and resized WebP textures, with a before/after comparison view. Nothing is uploaded.
+- [CharpstAR Free 3D Product Renders](https://charpstar.co/tools/free-product-renders) - Upload a GLB and get studio renders from four angles, on white and as transparent PNGs, plus a 360 turntable video, sent by email. Free, no watermark.
 - [pyrender: Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes.](https://github.com/mmatl/pyrender)
 - [VS-Code extension support editing glTF files](https://github.com/AnalyticalGraphicsInc/gltf-vscode)
 - [A minimal, engine-agnostic JavaScript glTF Loader](https://github.com/shrekshao/minimal-gltf-loader)
