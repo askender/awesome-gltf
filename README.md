@@ -64,6 +64,7 @@ Pull Requests are welcome!
 - [OBJ2GLTF](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF.
 - [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) - Blender glTF 2.0 importer and exporter.
 - [assimp](https://github.com/assimp/assimp) - Open Asset Import Library; loads 40+ 3D file formats, including glTF.
+- [Shapeweld FBX to VRM](https://shapeweld.com/tools/fbx-to-vrm) - Browser tool that converts a rigged FBX, GLB or glTF to VRM, the glTF-based avatar format, and maps the skeleton to the VRM humanoid.
 
 ### Engines & Engine Integrations
 - [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) - Runtime glTF 2.0 Loader for Unity3D.
