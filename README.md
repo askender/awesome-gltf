@@ -79,6 +79,7 @@ Pull Requests are welcome!
 ## Sample Assets
 - [glTF Sample Assets](https://github.com/KhronosGroup/glTF-Sample-Assets) - An assortment of assets that demonstrate features and capabilities of the glTF format.
 - [glTF Sample Models (archived)](https://github.com/KhronosGroupArchives/glTF-Sample-Models) - The original glTF sample model collection.
+- [SceneCrate CC0 GLB Scene Packs](https://scenecrate.com/free-3d-game-assets) - Nine self-contained binary glTF 2.0 (GLB) game scenes in two LOD tiers with SHA-256 checksums, JSON colliders, and local Three.js viewers under CC0 1.0.
 
 ## Learning
 - [glTF Tutorials](https://github.com/KhronosGroup/glTF-Tutorials) - Official Khronos glTF tutorials.
