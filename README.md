@@ -3,10 +3,9 @@
 </p>
 
 # Awesome glTF
-A curated list of awesome GL Transmission Format (glTF) resources and projects. These are hand-picked resources and projects that I find awesome.
+A curated list of awesome GL Transmission Format (glTF) resources and projects.
 
-Curated by [@askender43](https://twitter.com/askender43).
-Pull Requests are welcome!
+Curated by [@askender](https://github.com/askender) — pull requests welcome, see [Contributing](#contributing).
 
 ## Contents
 - [What is glTF?](#what-is-gltf)
@@ -22,6 +21,7 @@ Pull Requests are welcome!
 - [Learning](#learning)
 - [References](#references)
 - [Related Projects](#related-projects)
+- [Contributing](#contributing)
 
 ## What is glTF?
 ### Non-Technical Explanation
@@ -105,3 +105,12 @@ glTF 2.0 describes a full scene — geometry, PBR materials, animations and the 
 ## Related Projects
 - [Awesome Blender](https://github.com/agmmnn/awesome-blender)
 - [Awesome Godot](https://github.com/godotengine/awesome-godot)
+
+## Contributing
+Pull requests are welcome! To add a resource:
+
+- Make sure it is directly about glTF/GLB (or a glTF-based format like VRM), not general 3D tooling.
+- Add it to the right section with the format `- [Name](url) - short description`.
+- Keep the description to one line.
+
+If you're not sure where something fits, open an issue first.
