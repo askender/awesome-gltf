@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
-</p>
+<h1 align="center">Awesome glTF <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a></h1>
 
-<h1 align="center">Awesome glTF</h1>
-A curated list of awesome GL Transmission Format (glTF) resources and projects.
+The GL Transmission Format (glTF) is an open standard by the Khronos Group for transmitting and loading 3D models and scenes.
 
 Curated by [@askender](https://github.com/askender). Pull requests are welcome — see [contributing.md](contributing.md).
 
@@ -87,7 +84,6 @@ glTF 2.0 describes a full scene — geometry, PBR materials, animations and the 
 
 ## Sample Assets
 - [glTF Sample Assets](https://github.com/KhronosGroup/glTF-Sample-Assets) - An assortment of assets that demonstrate features and capabilities of the glTF format.
-- [glTF Sample Models (archived)](https://github.com/KhronosGroupArchives/glTF-Sample-Models) - The original glTF sample model collection.
 - [SceneCrate CC0 GLB Scene Packs](https://scenecrate.com/free-3d-game-assets) - Nine self-contained binary glTF 2.0 (GLB) game scenes in two LOD tiers with SHA-256 checksums, JSON colliders, and local Three.js viewers under CC0 1.0.
 
 ## Learning
