@@ -83,6 +83,7 @@ Pull Requests are welcome!
 - [glTF Tutorials](https://github.com/KhronosGroup/glTF-Tutorials) - Official Khronos glTF tutorials.
 
 ## References
+- [glTF Extension Support Matrix](https://digitalgarden.si/tools/gltf-extension-support-matrix/) - Source-linked extension support across Three.js, Babylon.js, model-viewer, Unity glTFast, Godot and Blender, with version scope and unknown entries distinguished from unsupported behavior.
 * [Everything You Need to Know About glTF Files](https://www.marxentlabs.com/gltf-files/)
 * [Why we should all support glTF 2.0 as THE standard asset exchange format for game engines](https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines/)
 * [glTF: Everything You Need to Know](https://www.threekit.com/blog/gltf-everything-you-need-to-know)
