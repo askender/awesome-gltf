@@ -65,6 +65,7 @@ glTF 2.0 describes a full scene — geometry, PBR materials, animations and the 
 - [Draco](https://github.com/google/draco) - Library for compressing and decompressing 3D geometric meshes and point clouds.
 - [glTF-Pipeline](https://github.com/CesiumGS/gltf-pipeline) - Content pipeline tools for optimizing glTF assets.
 - [CharpstAR GLB Compressor](https://charpstar.co/tools/compress-glb) - Free, in-browser GLB/glTF compression with Draco or Meshopt geometry and resized WebP textures, with a before/after comparison view. Nothing is uploaded.
+- [Mint GLB Texture Compressor](https://mint.gg/glb-texture-compressor) - Free, in-browser tool that resizes the textures inside a GLB and re-encodes them as WebP or AVIF to shrink file size. No signup, nothing uploaded.
 
 ### Converters
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - Command-line tool for converting FBX assets to glTF.
