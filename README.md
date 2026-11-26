@@ -70,6 +70,7 @@ glTF 2.0 describes a full scene — geometry, PBR materials, animations and the 
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - Command-line tool for converting FBX assets to glTF.
 - [OBJ2GLTF](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF.
 - [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) - Blender glTF 2.0 importer and exporter.
+- [OpenSKP](https://github.com/iamahsanmehmood/openskp) - Converts SketchUp (.skp) files to glTF/GLB without SketchUp, with libraries for Python, TypeScript, .NET, Dart, C++ and Rust.
 - [assimp](https://github.com/assimp/assimp) - Open Asset Import Library; loads 40+ 3D file formats, including glTF.
 - [Shapeweld FBX to VRM](https://shapeweld.com/tools/fbx-to-vrm) - Browser tool that converts a rigged FBX, GLB or glTF to VRM, the glTF-based avatar format, and maps the skeleton to the VRM humanoid.
 - [Unity Asset Exporter](https://extractunitypackage.com) - Free in-browser tool that opens .unitypackage files and exports textured glTF/GLB (and VRM for humanoid avatars). Files stay local.
